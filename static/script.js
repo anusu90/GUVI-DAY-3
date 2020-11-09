@@ -1,6 +1,6 @@
-let url1 = 'http://api.openweathermap.org/data/2.5/weather?q=Ranchi&appid=c95d30d30b354709644bc377fff8ea99'  //City Name
-let url2 = 'http://api.openweathermap.org/data/2.5/weather?id=1258526&appid=c95d30d30b354709644bc377fff8ea99' //city-id
-let url3 = 'http://api.openweathermap.org/data/2.5/weather?lat=23.35&lon=85.333328&appid=c95d30d30b354709644bc377fff8ea99' //Latitude and longitude
+let url1 = 'https://api.openweathermap.org/data/2.5/weather?q=Ranchi&appid=c95d30d30b354709644bc377fff8ea99'  //City Name
+let url2 = 'https://api.openweathermap.org/data/2.5/weather?id=1258526&appid=c95d30d30b354709644bc377fff8ea99' //city-id
+let url3 = 'https://api.openweathermap.org/data/2.5/weather?lat=23.35&lon=85.333328&appid=c95d30d30b354709644bc377fff8ea99' //Latitude and longitude
 
 let url_dict = {'City Name': url1,
 'City ID': url2,
